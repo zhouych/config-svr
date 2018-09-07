@@ -8,8 +8,8 @@ spring:
         git:
           uri: https://github.com/zhouych/config-repo
           search-paths: /**
-          username: zhouych
-          password: donotforget118
+          username: username
+          password: password
 server:
   port: 3000
   servlet:
